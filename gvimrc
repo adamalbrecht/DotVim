@@ -9,5 +9,3 @@ set background=light              " Background.
 set lines=44 columns=177          " Window dimensions.
 
 set guioptions-=r                 " Don't show right scrollbar
-
-
